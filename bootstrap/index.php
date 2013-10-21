@@ -8,6 +8,7 @@
     </head>
     <body>
     <h1>Hello, world!</h1>
+    <img src="img/glyphicons-halflings.png">
     <script src="http://code.jquery.com/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
     </body>
